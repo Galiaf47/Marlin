@@ -1,0 +1,11 @@
+- Connect to USB
+- Plug to 220v
+- Switch on power suply
+- Open **Repetier Host**
+- Click **Connect**
+- Add an object
+- Click **Slice with Slic3r**
+- Enable bed heater with **115**C manually
+- Level the bed
+- Click **Start Print**
+- Enable fan manually
